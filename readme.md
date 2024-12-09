@@ -1,4 +1,4 @@
-# OptionSurface
+# Optix
 
 Interactive 3D options surface visualizer. Transform options chains into intuitive surfaces to analyze strike prices, expiration dates, and premiums in real-time. Built with React, Recharts, and Polygon.io API.
 
